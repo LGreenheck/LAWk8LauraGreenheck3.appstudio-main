@@ -21,6 +21,10 @@ drpDesserts.onclick=function(){
         it in a label, using a literal.
         */
         drpDesserts.value = s 
-        lblDesserts.value = `You chose ${s}`
+        lblDesserts.value = `You chose ${s}.Nice!`
     }
+}
+
+btnNextPage.onclick=function(){
+  Changeform(describeYou)
 }
