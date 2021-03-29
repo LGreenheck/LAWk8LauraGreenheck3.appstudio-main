@@ -15,11 +15,11 @@
   "fontSize": "",
   "fontStyle": "",
   "fontWeight": "",
-  "height": 27,
+  "height": "auto",
   "hidden": "",
-  "id": "lblDesserts",
+  "id": "lblPersonality",
   "labelStyle": "text",
-  "left": 31,
+  "left": 144,
   "mAll": "",
   "mBottom": "",
   "mLeft": "",
@@ -42,7 +42,7 @@
   "right": "auto",
   "script": "",
   "style": "",
-  "top": 244,
+  "top": 256,
   "value": "Output",
   "width": "auto"
 }
