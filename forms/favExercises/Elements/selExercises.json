@@ -11,6 +11,7 @@
   "color": "",
   "disabled": "",
   "display": "",
+  "events": "onfocusout",
   "expanded_pmp": null,
   "fontFamily": "",
   "fontSize": "",
