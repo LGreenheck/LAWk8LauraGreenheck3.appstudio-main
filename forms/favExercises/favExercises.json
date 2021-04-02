@@ -36,6 +36,15 @@
         "Elements",
         "btnAboutChoices.json"
       ]
+    },
+    {
+      "!type": "External",
+      "file": [
+        "forms",
+        "favExercises",
+        "Elements",
+        "btnNextPage3.json"
+      ]
     }
   ],
   "class": "",
